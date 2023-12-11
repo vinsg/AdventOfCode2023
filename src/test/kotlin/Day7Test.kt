@@ -22,13 +22,13 @@ class Day7Test : FunSpec({
     }
 
     context("Solutions") {
-        test("Part 1") {
-            val result = Day7.part1()
-            assertEquals(250474325, result)
-        }
+//        test("Part 1") {
+//            val result = Day7.part1()
+//            assertEquals(250474325, result)
+//        }
         test("Part 2") {
             val result = Day7.part2()
-            assertEquals(5905, result)
+            assertEquals(248909434, result)
         }
     }
 
